@@ -1,0 +1,8 @@
+SOLID is a acronym used for 5 different java desgin these not the only patterns, 
+but are the most important ones and as a starting one should know these design patterns then move to other 
+
+S->Single Responsibility Principle
+O->Open-Close Principle
+L->Liskov Substitution Principle
+I->Integration Segregation Principle
+D->Dependency Inversion Principle
