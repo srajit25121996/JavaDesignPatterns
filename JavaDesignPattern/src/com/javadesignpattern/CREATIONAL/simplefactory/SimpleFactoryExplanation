@@ -1,0 +1,8 @@
+* Simple Factory is creational design pattern that helps you to create multiple different object,
+  based one simple criteria of choice.
+  
+* We basically define object instantiation/creation login into a separate class,
+  and most commonly in a static method of this class
+  
+* In simple words we can say that it is encapsulation of your instantiation logic, 
+  nothing complex goes in that method.  
